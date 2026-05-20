@@ -9,7 +9,7 @@ public class PizzaService : IPizzaService
 
     public void AddPizza(PizzaDTO pizza)
     {
-        var newPizza = new Pizza
+        var newPizza = new Pizza()
         {
             Flavour = pizza.Flavour,
             Slices = pizza.Slices

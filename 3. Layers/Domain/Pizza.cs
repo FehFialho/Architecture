@@ -1,7 +1,7 @@
 namespace Domain;
 
-public class Pizza (string flavour)
+public class Pizza
 {
-    public required string Flavour { get; set; } = flavour;
+    public required string Flavour { get; set; }
     public required int Slices { get; set; } = 6;
 }
