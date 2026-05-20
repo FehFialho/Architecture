@@ -20,4 +20,4 @@ Serviços sobre a lógica do funcionamento são "Serviços de Infraestrutura".
 
 
 ## Reference
-```dotnet add reference ..\Project.Infrasctructre\Project.Infrasctructre.csproj```
+```dotnet add reference ..\Infrastructure\Infrastructure.csproj```
