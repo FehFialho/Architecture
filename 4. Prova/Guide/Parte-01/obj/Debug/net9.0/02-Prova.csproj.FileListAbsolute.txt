@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\bin\Debug\net9.0\02-Prova.exe
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\bin\Debug\net9.0\02-Prova.deps.json
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\bin\Debug\net9.0\02-Prova.runtimeconfig.json
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\bin\Debug\net9.0\02-Prova.dll
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\bin\Debug\net9.0\02-Prova.pdb
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\obj\Debug\net9.0\02-Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\obj\Debug\net9.0\02-Prova.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\obj\Debug\net9.0\02-Prova.AssemblyInfo.cs
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\obj\Debug\net9.0\02-Prova.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\obj\Debug\net9.0\02-Prova.sourcelink.json
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\obj\Debug\net9.0\02-Prova.dll
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\obj\Debug\net9.0\refint\02-Prova.dll
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\obj\Debug\net9.0\02-Prova.pdb
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\obj\Debug\net9.0\02-Prova.genruntimeconfig.cache
+C:\Users\disrct\Desktop\FehFito\Architecture\4. Prova\Guide\Parte-01\obj\Debug\net9.0\ref\02-Prova.dll
